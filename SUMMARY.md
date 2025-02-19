@@ -40,6 +40,6 @@
 
 ## 🔗 link
 
-* [Treasuries](https://docs.treasuries.io)
-* [Income](https://income.treasuries.io)
-* [Funding](https://funding.treasuries.io)
+* [Treasuries](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/qIN4B3DGHPqKOl7e6VuV/)
+* [Income](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/ZoHfKJYKPW9AnonUHAUO/)
+* [Funding](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/)
