@@ -37,3 +37,9 @@
   * [Applying the score voting examples to these approaches](approaches/score-voting-approaches/applying-the-score-voting-examples-to-these-approaches.md)
   * [Voting approach improvement ideas](approaches/score-voting-approaches/voting-approach-improvement-ideas.md)
   * [Expressive approval voting with decision disapprovals](approaches/score-voting-approaches/expressive-approval-voting-with-decision-disapprovals.md)
+
+## 🔗 link
+
+* [Treasuries](https://docs.treasuries.io)
+* [Income](https://income.treasuries.io)
+* [Funding](https://funding.treasuries.io)
