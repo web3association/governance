@@ -38,6 +38,10 @@
   * [Voting approach improvement ideas](approaches/score-voting-approaches/voting-approach-improvement-ideas.md)
   * [Expressive approval voting with decision disapprovals](approaches/score-voting-approaches/expressive-approval-voting-with-decision-disapprovals.md)
 
+## Voting
+
+* [Voting delegation](voting/voting-delegation.md)
+
 ## 🔗 link
 
 * [Treasuries](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/qIN4B3DGHPqKOl7e6VuV/)
