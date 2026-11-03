@@ -67,6 +67,10 @@ To compare these points allocation approaches a [number of factors have been con
 
 **Points allocation approaches analysis**
 
+{% content-ref url="maximum-points-allocation-approaches/" %}
+[maximum-points-allocation-approaches](maximum-points-allocation-approaches/)
+{% endcontent-ref %}
+
 {% content-ref url="points-allocation-factors-for-consideration.md" %}
 [points-allocation-factors-for-consideration.md](points-allocation-factors-for-consideration.md)
 {% endcontent-ref %}
